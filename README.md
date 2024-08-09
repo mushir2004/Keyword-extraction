@@ -35,7 +35,7 @@
     <li>
       <a href="#about-the-project"></a>
       <ul>
-        <li><a href="#built-with">Built With Python, HTML, FLASK</a></li>
+        <li><a href="#built-with"></a></li>
       </ul>
     </li>
     <li>
