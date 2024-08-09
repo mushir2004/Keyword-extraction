@@ -34,9 +34,9 @@
   <ol>
     <li>
       <a href="#about-the-project"></a>
-      <ul></ul>
+      <ul>
         <li><a href="#built-with"></a></li>
-      </ul> 
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
