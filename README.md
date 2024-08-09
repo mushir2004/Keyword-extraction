@@ -33,7 +33,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Keyword extraction is the process of identifying and extracting the most relevant words or phrases from a text, which can summarize the content or highlight important topics. It’s commonly used in text analysis and information retrieval to make it easier to understand or search through large volumes of text.</a>
+      <a href="#about-the-project"></a>
       <ul>
         <li><a href="#built-with">Built With Python, HTML, FLASK</a></li>
       </ul>
@@ -148,6 +148,5 @@ Project Link: [https://github.com/mushir2004/Keyword-extraction]
 You can acknowledge any individual, group, institution or service.
 * [SRM KTR SIGKDD Student Chapter](https://github.com/ACM-SIGKDD-SRM-KTR-STUDENT-CHAPTER)
 * [https://github.com/Whis2903]
-
 
 
